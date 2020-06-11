@@ -1,3 +1,3 @@
 # mandeep123456.github.io
 yes
-![](images/ceo1.jpg)
+![](small/images/ceo1.jpg)
