@@ -42,7 +42,7 @@ body {
 	margin: auto;
 	width: 778px;
   position: relative;
-  background: url(images/body_bg.gif) repeat-y;
+  background: url(body_bg.gif) repeat-y;
 }
 
 #header {
@@ -51,7 +51,7 @@ body {
   left: 243px;
   width: 535px;
   height: 279px;
-  background: url(images/header_2.jpg) no-repeat;
+  background: url(header_2.jpg) no-repeat;
 }
 #left {
   float: left;
@@ -60,7 +60,7 @@ body {
 #logo {
   width: 244px;
   height: 152px;
-  background: url(images/header_1.jpg) no-repeat;
+  background: url(header_1.jpg) no-repeat;
   text-align: center;
   color: #595959;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 #nav {
-  background: url(images/nav_left.jpg) no-repeat;
+  background: url(nav_left.jpg) no-repeat;
 }
 #nav ul {
   margin-left: 9px;
@@ -90,7 +90,7 @@ body {
   list-style: none;
   font: 14px "arial narrow", arial, sans-serif;
   border-top: 1px solid #959595;
-  background: 188px 10px url(images/arr_white.gif) no-repeat;
+  background: 188px 10px url(arr_white.gif) no-repeat;
   padding: 7px 0 0 31px;
 }
 #nav a {
@@ -107,14 +107,14 @@ body {
 }
 #nav .important {
   border: none;
-  background: 188px 10px url(images/arr_orange.gif) no-repeat;
+  background: 188px 10px url(arr_orange.gif) no-repeat;
 }
 #nav .important a {
   color: #E9C379;
 }
 
 #news {
-  background: url(images/news_bg.jpg) repeat-y;
+  background: url(news_bg.jpg) repeat-y;
   padding-left: 37px;
   padding-right: 22px;
   padding-bottom: 3px;
@@ -140,12 +140,12 @@ body {
   font-size: 9px;
 }
 #news .hr-dots {
-  background: center url(images/dots.gif) repeat-x;
+  background: center url(dots.gif) repeat-x;
   height: 10px;
 }
 
 #support {
-  background: url(images/support.jpg) no-repeat;
+  background: url(support.jpg) no-repeat;
   padding: 1px;
   height: 97px;
   color: #1A1A18;
