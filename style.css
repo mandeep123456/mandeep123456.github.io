@@ -28,7 +28,7 @@ a:hover {
 }
 
 body {
-	background: #E0D5B7 url(images/page_bg.jpg) repeat-x;
+	background: #E0D5B7 url(page_bg.jpg) repeat-x;
 	text-align: center;
 	font: 11px verdana, arial, sans-serif;
 	color: #74653D;
@@ -84,7 +84,7 @@ body {
   margin-left: 9px;
   padding-left: 1px;
   padding-bottom: 29px;
-  background: #2A2A2A bottom left url(images/nav_bot.jpg) no-repeat;
+  background: #2A2A2A bottom left url(nav_bot.jpg) no-repeat;
 }
 #nav li {
   list-style: none;
